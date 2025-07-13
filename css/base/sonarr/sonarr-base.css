@@ -22,6 +22,7 @@
     --calendar-tv-missing: 240 80 80;
     --calendar-tv-on-air: 255 165 0;
     --calendar-tv-available: 39 194 76;
+    --rounding: 12px;
 }
 
 [class*="EpisodeTitleLink-link-"] {
