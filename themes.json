@@ -653,7 +653,7 @@
         "sonarr-darker": "https://mystforge.com\n/css/addons/sonarr/sonarr-darker/sonarr-darker.css?sha=4298cf0cd42ffc7ec6899ed1d4b96a8e",
         "sonarr-text-logo": "https://mystforge.com\n/css/addons/sonarr/sonarr-text-logo/sonarr-text-logo.css?sha=38aa6593f7df81c5e78c4d322593f594"
       },
-      "base_css": "https://mystforge.com\n/css/base/sonarr/sonarr-base.css?sha=0e073eccbf94f84877353ed54933e8a3"
+      "base_css": "https://mystforge.com\n/css/base/sonarr/sonarr-base.css?sha=db5f382c91129c18c2b80eb88896cffe"
     },
     "synclounge": {
       "addons": {},
