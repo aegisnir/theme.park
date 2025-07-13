@@ -329,9 +329,6 @@
     },
     "Trueblack": {
       "url": "https://theme-park.mystforge.com\n/css/community-theme-options/trueblack.css?sha=541f73821cfe0a75a26106011079b244"
-    },
-    "Your-custom": {
-      "url": "https://theme-park.mystforge.com\n/css/theme-options/your-custom.css?sha=0db259d6e90028b1b346b6826e2d6d54"
     }
   },
   "applications": {
@@ -920,9 +917,6 @@
     },
     "Space-gray": {
       "url": "https://theme-park.mystforge.com\n/css/theme-options/space-gray.css?sha=fe5797a1fc63f6e1929ffc4bdec30312"
-    },
-    "Your-custom": {
-      "url": "https://theme-park.mystforge.com\n/css/theme-options/your-custom.css?sha=0db259d6e90028b1b346b6826e2d6d54"
     }
   }
 }
