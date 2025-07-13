@@ -258,6 +258,9 @@
     "Catppuccin-mocha": {
       "url": "https://mystforge.com\n/css/community-theme-options/catppuccin-mocha.css?sha=3a94f850384195bd9d75d270eed80581"
     },
+    "Custom": {
+      "url": "https://mystforge.com\n/css/theme-options/custom.css?sha=9b7170ac058abdfea71d9552e280382d"
+    },
     "Dark": {
       "url": "https://mystforge.com\n/css/theme-options/dark.css?sha=38f08efadc40a771376804e112c15b00"
     },
@@ -887,6 +890,9 @@
   "themes": {
     "Aquamarine": {
       "url": "https://mystforge.com\n/css/theme-options/aquamarine.css?sha=591b3468083c72cda580a7c61d5d26ca"
+    },
+    "Custom": {
+      "url": "https://mystforge.com\n/css/theme-options/custom.css?sha=9b7170ac058abdfea71d9552e280382d"
     },
     "Dark": {
       "url": "https://mystforge.com\n/css/theme-options/dark.css?sha=38f08efadc40a771376804e112c15b00"
