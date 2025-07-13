@@ -1,5 +1,5 @@
 :root {
-  --main-bg-color:  linear-gradient(360deg, hsl(221, 39%, 11%) 65%, hsl(215, 28%, 17%) 100%);
+  --main-bg-color: linear-gradient(45deg, #fb3f62 0%, #204c80 37%, #004249 97%) center center/cover no-repeat fixed;
   
   --modal-bg-color: #221f37; 
   --modal-header-color: #221f37;
