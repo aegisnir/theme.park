@@ -294,6 +294,9 @@
     "Overseerr": {
       "url": "https://theme-park.mystforge.com/css/theme-options/overseerr.css?sha=6fa79c6417fc81ad26dffe8083078398"
     },
+    "Overseerr2": {
+      "url": "https://theme-park.mystforge.com/css/theme-options/overseerr2.css"
+    },
     "Pine-shadow": {
       "url": "https://theme-park.mystforge.com/css/community-theme-options/pine-shadow.css?sha=ae5fb5029a078157ef8912bf6b2d5b40"
     },
@@ -1007,6 +1010,9 @@
     },
     "Overseerr": {
       "url": "https://theme-park.mystforge.com/css/theme-options/overseerr.css?sha=6fa79c6417fc81ad26dffe8083078398"
+    },
+    "Overseerr2": {
+      "url": "https://theme-park.mystforge.com/css/theme-options/overseerr2.css"
     },
     "Plex": {
       "url": "https://theme-park.mystforge.com/css/theme-options/plex.css?sha=ee86fed87fb92c4983b1b4056b0689b6"
